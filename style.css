@@ -1,0 +1,18 @@
+.demo-box{
+background-color: blue;
+color: green;
+padding: 1.5rem 1rem;
+text-align: center;
+border-radius: 0.375rem;
+font-weigth: bold;
+}
+
+.demo-box-alt{
+    backgroud-color: green;
+    color:brown;
+    padding: 1.5rem 1rem;
+    text-align: center;
+    border-radius: 0.375rem;
+    font-weigth: bold;
+    
+}
